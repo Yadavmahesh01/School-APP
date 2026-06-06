@@ -1,0 +1,53 @@
+{
+  "STU1001": {
+    "student_id": "STU1001",
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@example.com",
+    "phone": "+91-9876543210",
+    "date_of_birth": "2002-05-14",
+    "course_branch": "B.Tech - Computer Science",
+    "year_semester": "3rd Year - Semester 6",
+    "profile_photo": "https://example.com/photos/rahul_sharma.jpg",
+    "address": {
+      "street": "Near City Mall",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "pincode": "302017",
+      "country": "India"
+    }
+  },
+  "STU1002": {
+    "student_id": "STU1002",
+    "name": "Priya Verma",
+    "email": "priya.verma@example.com",
+    "phone": "+91-9123456780",
+    "date_of_birth": "2003-01-22",
+    "course_branch": "B.Sc - Data Science",
+    "year_semester": "2nd Year - Semester 4",
+    "profile_photo": "https://example.com/photos/priya_verma.jpg",
+    "address": {
+      "street": "MG Road",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452001",
+      "country": "India"
+    }
+  },
+  "STU1003": {
+    "student_id": "STU1003",
+    "name": "Aman Khan",
+    "email": "aman.khan@example.com",
+    "phone": "+91-9988776655",
+    "date_of_birth": "2001-09-10",
+    "course_branch": "BCA",
+    "year_semester": "Final Year - Semester 6",
+    "profile_photo": "https://example.com/photos/aman_khan.jpg",
+    "address": {
+      "street": "Sector 15",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "pincode": "160015",
+      "country": "India"
+    }
+  }
+}
