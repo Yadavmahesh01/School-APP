@@ -947,49 +947,7 @@ Example production-style command:
 uvicorn main:app --host 0.0.0.0 --port 8000
 ```
 
-Deployment platforms that can host this project:
 
-- Render
-- Railway
-- Fly.io
-- AWS EC2
-- Azure App Service
-- Google Cloud Run
-
-## Resume Impact
-
-You can use these resume bullet points:
-
-- Built a modular FastAPI backend for a school management system with authentication, JWT-based authorization, and role-protected API routes.
-- Implemented secure user registration and login using bcrypt password hashing, OAuth2 form authentication, and signed JWT bearer tokens.
-- Designed SQLAlchemy models and SQLite database integration for storing registered student accounts with unique email constraints.
-- Created separate API modules for authentication, student operations, and teacher operations to improve maintainability and scalability.
-- Developed protected student and teacher workflows using FastAPI dependency injection and role-based access control.
-- Documented API behavior, architecture, installation steps, security considerations, and future production improvements for open-source readiness.
-
-## Recruiter Highlights
-
-This project demonstrates practical backend engineering skills that are directly relevant for entry-level software engineering, backend developer, Python developer, and API developer roles.
-
-Recruiters should notice:
-
-- Clear understanding of REST API design
-- Ability to structure a backend project into modules
-- Knowledge of authentication and authorization
-- Secure password handling with hashing
-- Use of SQLAlchemy ORM and SQLite
-- Understanding of JWT-based stateless APIs
-- Awareness of production concerns such as environment variables, debug routes, and database migration needs
-- Ability to document a project professionally
-
-Relevant roles:
-
-- Python Backend Developer
-- FastAPI Developer
-- Junior Software Engineer
-- API Developer
-- Backend Intern
-- Full-Stack Developer Trainee
 
 ## Known Implementation Notes
 
